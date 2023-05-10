@@ -1,2 +1,2 @@
-# scan-preprocessing-algo
-Word scan preprocessing algorithm
+# img-extraction-algo
+Algorithm for extracting words from a scan
